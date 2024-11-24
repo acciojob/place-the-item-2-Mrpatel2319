@@ -3,7 +3,7 @@
 	padding:0;
 	box-styling:border-box;
 }
-.container{
+.holder{
 	display:flex;
 	justify-content:center;
 	flex-wrap:wrap;
